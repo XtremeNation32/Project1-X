@@ -1,0 +1,20 @@
+body{ background-image: url(city1.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;}
+h1{
+    color: white;
+    font-family:"press start 2p";
+}
+p{color: black;
+
+font-family: sans-serif;
+text-align: center;
+font-size: 100px;
+}
+#front{text-align: center;
+    color: white;
+    font-family:"press start 2p";}
+    .fa-bars{
+    }
